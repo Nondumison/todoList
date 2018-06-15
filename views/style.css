@@ -134,7 +134,7 @@ input {
 }
 
 .addBtn:hover {
-  background-color: #bbb;
+  background-color: blue;/* #bbb*/
 }
 
 
@@ -144,6 +144,6 @@ footer {
     text-align: center;
     font-size: 13px;
     font-family: serif;
-    color: #ffffff;
+    color:#bbb ;
     position: sticky;
 }
